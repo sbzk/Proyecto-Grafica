@@ -15117,7 +15117,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 6a4e3734aff21934d831e4bd7ced9e9e, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.6
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -15212,7 +15212,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4786081ecd1cbb44810cc177c43091f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Alien: {fileID: 0}
+  Alien: {fileID: 1170200207}
 --- !u!1 &964356964
 GameObject:
   m_ObjectHideFlags: 0
@@ -21799,8 +21799,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1839728036}
-  m_LocalRotation: {x: -0.04550547, y: 0.39472696, z: 0.019584088, w: 0.91746193}
-  m_LocalPosition: {x: -8.128031, y: 46.506733, z: -5.197484}
+  m_LocalRotation: {x: 0, y: 0, z: 0.000000021073424, w: 1}
+  m_LocalPosition: {x: 95.588, y: 25.34992, z: 114.313995}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
