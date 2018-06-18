@@ -1,5 +1,5 @@
 ﻿var sonido : AudioSource;
-var espacio : boolean;
+private var espacio : boolean;
  
 function Start () {
     sonido.enabled=false;

@@ -13,7 +13,11 @@ var timeAnimacion : float;
 var timeAlien : float;
 var anim : Animator;
 var sonido : AudioSource;
- 
+//private var reco : recolectar;
+//private var sound : SonidoAlCaminar;
+//private var tpuc : ThirdPersonUserControl;
+//private var tpc : ThirdPersonCharacter;
+
 function Start () {
 	cam.depth=APAGADA;
 	cam1.depth=APAGADA;
@@ -43,8 +47,10 @@ function Update () {
 		cam2.depth=APAGADA;
 		Animacion.SetActive(false);
 		Destroy(can);
-		can=Auxiliar;		
-    } 
+		can=Auxiliar;
+		Alien.GetComponent(recolectar).enabled=true;
+		Alien.GetComponent(SonidoAlCaminar).enabled=true;
+	} 
 }
 function canvas(){
 	can.SetActive(true);
