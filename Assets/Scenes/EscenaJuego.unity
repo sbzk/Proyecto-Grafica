@@ -2035,6 +2035,20 @@ Skybox:
 GameObject:
   m_PrefabParentObject: {fileID: 100000, guid: c687a4f0126c2e74a93296611f106783, type: 3}
   m_PrefabInternal: {fileID: 859539858}
+--- !u!64 &1546782697
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1546782696}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_SkinWidth: 0.01
+  m_Mesh: {fileID: 4300000, guid: c687a4f0126c2e74a93296611f106783, type: 3}
 --- !u!65 &1546782700
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2055,7 +2069,7 @@ CapsuleCollider:
   m_GameObject: {fileID: 1546782696}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_Enabled: 1
+  m_Enabled: 0
   m_Radius: 33.3
   m_Height: 91.67
   m_Direction: 0
@@ -2709,8 +2723,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1839728036}
-  m_LocalRotation: {x: 0.12310753, y: 0.32236582, z: 0.04232223, w: -0.9376213}
-  m_LocalPosition: {x: 333.44418, y: 1.5940514, z: 211.70392}
+  m_LocalRotation: {x: 0.17606293, y: 0.6821127, z: 0.17456894, w: -0.6879316}
+  m_LocalPosition: {x: 298.87494, y: 12.990093, z: 269.6068}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
