@@ -1,0 +1,8 @@
+* el alien se puede mover durante la animacion
+* niebla
+* agregar la casa
+* fuego a la nave
+* canvas de recoleccion de objetos
+* al tener 3 objetos, desactivar sonido error y fuego en nave
+* recreacion de la nave despegando
+* completar terreno
