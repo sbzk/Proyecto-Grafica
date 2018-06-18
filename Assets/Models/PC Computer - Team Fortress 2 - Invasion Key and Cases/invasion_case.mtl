@@ -1,0 +1,22 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl invasion_case
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.504694 0.631651 0.314530
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd invasion_case.png
+
+newmtl invasion_case_cordon
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.572238 0.515954 0.615832
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd invasion_case.png

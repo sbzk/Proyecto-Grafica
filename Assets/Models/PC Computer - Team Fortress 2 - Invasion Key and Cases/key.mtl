@@ -1,0 +1,12 @@
+# Blender MTL File: 'None'
+# Material Count: 1
+
+newmtl invasion_key
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.590099 0.257866 0.616942
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd invasion_keyx.png
