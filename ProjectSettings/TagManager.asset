@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Recolectable
+  - SubAlarma
+  - SubNave
   layers:
   - Default
   - TransparentFX
